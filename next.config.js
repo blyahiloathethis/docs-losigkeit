@@ -5,7 +5,7 @@ import bundleAnalyzer from '@next/bundle-analyzer'
 
 const withBundleAnalyzer = bundleAnalyzer({
   // eslint-disable-next-line no-process-env
-  enabled: process.env.ANALYZE === 'true'
+  enabled: process.env.ANALYZE === 'false'
 })
 
 export default withBundleAnalyzer({
