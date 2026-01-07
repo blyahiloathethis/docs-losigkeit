@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Losigkeit - Docs',
-  domain: 'docs-losigkeit.vercel.app',
-  author: 'Forget-Me-Not',
+  name: 'heimatverlust',
+  domain: 'https://leeresehnsucht.vercel.app/',
+  author: 'Si',
 
   // open graph metadata (optional)
-  description: 'Idle talks about the Losigkeit',
+  description: '#',
 
   // social usernames (optional)
   // twitter: '#',
