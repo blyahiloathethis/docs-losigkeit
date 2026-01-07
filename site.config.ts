@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'heimatverlust',
+  name: 'Heimatverlust',
   domain: 'https://leeresehnsucht.vercel.app/',
   author: 'Si',
 
